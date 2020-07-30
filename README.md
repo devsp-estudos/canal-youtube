@@ -2,6 +2,8 @@
 
 Este repo é destinado a organizar o conteúdo do [canal](https://www.youtube.com/channel/UCFIHeoKduKPsE2m1oSiK9Mg), suas [playlists](https://www.youtube.com/channel/UCFIHeoKduKPsE2m1oSiK9Mg/playlists), roteiros de videos, receber sugestões de videos e feedbacks, abaixo esta as playlists do canal é só clicar em qual achar interessante para ter mais informações e visualizar os videos já gravados ou os que estão para ser gravados, sinta-se a vontade para dar uma [olhada no canal](https://www.youtube.com/channel/UCFIHeoKduKPsE2m1oSiK9Mg) e abrir uma [issue](https://github.com/devsp011/canal-youtube/issues) aqui no repositório.
 
+**Vídeo com a proposta do canal:** [Click aqui](https://www.youtube.com/watch?v=W2MUL8iMTWs)
+
 # :pushpin: Índice
 
 * [Informatica basica](https://github.com/devsp011/canal-youtube/blob/master/playlists/Informatica%20basica.md)
