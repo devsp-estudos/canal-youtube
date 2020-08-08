@@ -4,9 +4,10 @@ Sobre a playlist
 
 # 📌 Índice
 
-* [O que é um computador o que tem dentro dele]()
-* Conhecendo e entendendo sobre Sistema operacional
+* [O que é computador|hardware|software|OS](#-o-que-é-computadorhardwaresoftwareos)
+* Conhecendo e entendendo o Sistema operacional
 * Entendendo unidades de medidas como Bit, Bytes, GB, TB
+* Conhecendo os principais Hardwares do computador
 * Memoria RAM, HD e SSD, processador
 * Aprendendo a usar o Teclado e o Mouse do computador
 * Você sabe o que é a Internet e WI-FI ?
@@ -21,9 +22,9 @@ Sobre a playlist
 
 É uma maquina constituída por componentes e circuitos eletrônicos, capaz de receber, armazenar, processar e transmitir informações, é uma maquina que processa dados e gera resultados.
 
-A ascensão dos computadores no brasil, é algo relativamente novo vem acontecendo com uma curva maior dentro da ultima década, com o avanço da tecnologia e da sociedade hoje um computador é mais acessível e tem mais utilidades no cenário atual do que a 10 anos atrás, hoje estamos vivenciando a revolução da tecnologia mais do que nunca os computadores estão sendo usados e esse numero só tende a crescer.
+A ascensão dos computadores no brasil, é algo relativamente novo vem acontecendo com uma curva maior dentro da ultima década, com o avanço da tecnologia e da sociedade hoje um computador é mais acessível e tem mais utilidades no cenário atual do que a 10 anos atrás, hoje estamos vivenciando a revolução da tecnologia, mais do que nunca os computadores estão sendo usados e esse numero só tende a crescer.
 
-O computador não faz absolutamente nada sem que lhe seja ordenado, é uma maquina programável que pode executar diversas tarefas diferentes, seguindo uma sequencia de comandos lógicos, ela pode utilizar de sequencia de comandos já criados ou podemos criar nossos próprios comandos e instruindo o computador a fazer o que queremos que ele faça.
+O computador não faz absolutamente nada sem que lhe seja ordenado, é uma maquina programável que pode executar diversas tarefas diferentes, seguindo uma sequencia de comandos lógicos, ela pode utilizar de sequencia de comandos já criados ou podemos criar nossos próprios comandos e instruir o computador a fazer o que queremos que ele faça.
 
 Podemos separar o computador em Hardware e Software.
 
@@ -37,7 +38,7 @@ São componentes lógicos de um sistema de computação, é um conjunto de instr
 
 **Software Básico** são os Sistemas Operacionais e as Interfaces Gráficas por exemplo, no universo Linux podemos trocar a interface gráfico do sistema operacional e vamos ver isso em uma aula dedicada.
 
-**Software Utilitário** são programas que trazem vantagens para o usuário da máquina, pacote office, navegadores, reprodutor de musicas, editores de fotos entre outros.
+**Software Utilitário** são programas que trazem vantagens para o usuário, pacote office, navegadores, reprodutor de musicas, editores de fotos entre outros.
 
 E também temos os dois grupos que definem como é feito a distribuição desses softwares para os usuários que são os **Software proprietário e livre**
 
@@ -45,7 +46,7 @@ E também temos os dois grupos que definem como é feito a distribuição desses
 
 São software que é licenciado com direitos exclusivos para o produtor, o dono do software.
 
-A modificação ou redistribuição é proibida ou restrita e requer permissão, o maior exemplo de software proprietário é o Windows ou o pacote office da Microsoft, ou o MacOS ou IOS da Apple, os programas da adobe como o photoshop e a lista é extensa.
+A modificação ou redistribuição é proibida ou restrita e requer permissão, o maior exemplo de software proprietário é o Windows ou o pacote office da Microsoft, o MacOS ou IOS da Apple, os programas da adobe como o photoshop e a lista é extensa.
 
 ### Software Livre
 
@@ -55,28 +56,44 @@ A melhor definição de Software Livre que podemos observar vem da Fundação do
 
 Existem varias licenças para se aplicar em um Software e a Fundação do Software Livre criou uma que se chama GPL, e uma das suas liberdades garantem a executar o programa como desejar, para qualquer proposito e uma outra que é uma das coisas mais legais de um software livre e a liberdade de melhorar o programa e divulgar suas melhorias para o publico, para que toda a comunidade se beneficie, assim qualquer um pode ajudar a melhorar aquilo que esta ali para todos usarem e isso é sensacional.
 
-Alguns exemplos de Softwares Livre são o pacote LibreOffice que é uma versão gratuita e livro do pacote office da microsoft, o navegador mozilla firefox, o cliente de e-mail thunderbird também da mozilla, o navegador choromium da google, entre outros.
+Alguns exemplos de Softwares Livre são o pacote LibreOffice que é uma versão gratuita e livre do pacote office da microsoft, o navegador firefox e o cliente de e-mail thunderbird ambos da mozilla, o navegador choromium da google, entre outros.
 
-## 🎥 Conhecendo e entendendo Sistema operacional
+### Sistema operacional
+
+O sistema operacional é o principal software de um computador, ele que comanda todas as ações do usuário e gerenciado todo o desempenho dos hardwares, sem ele não daria pra se fazer muito é ele quem dá a vida para o computador. 
+
+Os principais sistemas operacionais hoje são o Android para os smartphones e o Windows para os computadores.
+
+Existem vários tipos de sistemas operacionais e vamos entender melhor sobre isso e ver vários deles na próxima aula que vou deixar aqui no card.
+
+## 🎥 Conhecendo e entendendo o Sistema operacional
 
 O sistema operacional é o principal software de um computador, ele que permite a interação do usuários com os componentes físicos do computador, é através dele que é feito todas as ações do usuário, sem ele não tem muito o que o usuário possa fazer com o computador.
 
 Os principais sistemas operacionais hoje são o Android e IOS em celulares e Windows, MacOS e sistemas baseados em Linux para os computadores
 
-O que é Linux, Linux é um kernel é o núcleo do sistema, é a ponte entre o hardware e o software, e ele quem faz um som sair no alto falante, o video ligar, o sistema reconhecer as teclas que foram digitadas no teclado.
+O que é Linux, Linux é um kernel é o núcleo do sistema, é a ponte entre o hardware e o software, é ele quem faz um som sair no alto falante, o video ligar, o sistema reconhecer o teclado.
 
 **aula sobre kernel:**
 https://www.youtube.com/watch?v=BKFw7VCvffM&list=PLSXPpZCNu-ejAIKIEWt95vqrLrHidH05q&index=9
 
 Ai existem os sistemas operacionais montados em cima desse núcleo, alguns deles são o, Ubuntu, Mint, ZorinOS, Kubuntu, Kali entre diversos outros.
 
-O sistema operacional e os programas são organizados em arquivos, então cada sistema operacional tem um gerenciador ou explorador de arquivos, temos as pastas ou diretórios que são usadas para guardar e organizar os arquivos, todo arquivo tem uma extensão e a extensão vareia de acordo com o tipo do arquivo (áudio, video, texto, imagem, dados)
+O sistema operacional e os programas são organizados em arquivos e pastas, então cada sistema operacional tem um gerenciador ou explorador de arquivos, temos as pastas ou diretórios que são usadas para guardar e organizar os arquivos, todo arquivo tem uma extensão e a extensão vareia de acordo com o tipo do arquivo (áudio, video, texto, imagem, dados)
 
 Todas as pastas e arquivos são salvos dentro do armazenamento do computador seja ele um HD ou SSD
+
+### Arquitetura do processador 
+
+32 e 64 bits
 
 ## 🎥 Entendendo unidades de medidas como Bit, Bytes, GB, TB
 
 Calculo de bit 
+
+## 🎥 Conhecendo os principais Hardwares do computador
+
+Aqui eu vou passar por placa mãe, placa de video, entradas da placa, chipset.
 
 ## 🎥 Memoria RAM, HD e SSD, processador
 
