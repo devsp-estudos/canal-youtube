@@ -6,8 +6,7 @@ Sobre a playlist
 
 * [O que é computador|hardware|software|OS](#-o-que-é-computadorhardwaresoftwareos)
 * [Conhecendo e entendendo o Sistema operacional](#-conhecendo-e-entendendo-o-sistema-operacional)
-* [Entendendo unidades de medidas como Bit, Bytes, GB, TB](#-entendendo-unidades-de-medidas-como-bit-bytes-gb-tb)
-* [Conhecendo os principais Hardwares do computador](#-conhecendo-os-principais-hardwares-do-computador)
+* [Conhecendo os Hardwares do computador](#-conhecendo-os-hardwares-do-computador)
 * [Memoria RAM, HD e SSD, processador](#-memoria-ram-hd-e-ssd-processador)
 * [Aprendendo a usar o Teclado e o Mouse do computador](#-aprendendo-a-usar-o-teclado-e-o-mouse-do-computador)
 * [Você sabe o que é a Internet e WI-FI ?](#-você-sabe-o-que-é-a-internet-e-wi-fi-)
@@ -106,11 +105,7 @@ Todas as pastas e arquivos são salvos dentro do armazenamento do computador sej
 
 32 e 64 bits
 
-## 🎥 Entendendo unidades de medidas como Bit, Bytes, GB, TB
-
-Calculo de bit 
-
-## 🎥 Conhecendo os principais Hardwares do computador
+## 🎥 Conhecendo os Hardwares do computador
 
 Aqui eu vou passar por placa mãe, placa de video, entradas da placa, chipset.
 
